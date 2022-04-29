@@ -3,6 +3,8 @@ ReactJS web app that allows you to draw on a canvas and export drawing to transp
 
 Technology used: JavaScript, Node, Docker
 
+![alt text](https://github.com/kirnehv/digital-signature/blob/master/src/media/screenshot.png?raw=true)
+
 ## Dependencies
 * [NodeJS](https://nodejs.org/en/)
 * [Yarn](https://classic.yarnpkg.com/en/docs/install/#windows-stable)
