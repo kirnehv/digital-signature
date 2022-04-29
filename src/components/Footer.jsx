@@ -4,7 +4,7 @@ class Footer extends Component {
   render() {
     return (
       <div className="Footer">
-        <p> ©️ 2021 Excelera DCE. All rights reserved. </p>
+        <p> ©️ 2022 Simple Services LLC. All rights reserved. </p>
       </div>
     );
   }
